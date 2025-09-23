@@ -1,6 +1,9 @@
 # Ayuda
 _Este repositorio contine ayuda en diversas tecnologias_
 
+[octicons diseño](https://primer.style/octicons/design-guidelines/)
+
+
 # [Linux](linux/README.md)
 _comandos, instalaciones y mas_
 
