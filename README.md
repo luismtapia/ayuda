@@ -2,6 +2,7 @@
 _Este repositorio contine ayuda en diversas tecnologias_
 
 [octicons diseño](https://primer.style/octicons/design-guidelines/)
+[markdown](https://docs.github.com/es/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#custom-anchors)
 
 
 # [Linux](linux/README.md)
